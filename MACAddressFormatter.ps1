@@ -14,7 +14,6 @@
     Requires   : Windows PowerShell ISE  
 .LINK  
     https://en.wikipedia.org/wiki/MAC_address
-
 #>
 
 
