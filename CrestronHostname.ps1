@@ -3,7 +3,7 @@
     Updates Hostname for Crestron Devices  
 .DESCRIPTION  
     This scripts looks for an Excel File with the name "DevicesIP.xlsx" that is in the current directory as the PowerShell Script/
-    The Excel Document must have a sheel with name Sheet1 and must have the format with example of second row
+    The Excel Document must have a sheet with name Sheet1 and must have the format with example of second row
     IP Address   Hostname   username   password
     10.0.0.1     NEW-NAME   <username> <passowrd>
 
